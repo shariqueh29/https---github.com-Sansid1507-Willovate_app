@@ -98,7 +98,7 @@ const Footer = () => (
       </FooterColumn>
 
       <FooterColumn>
-        <FooterLink href="#">Ongoing</FooterLink>
+        <FooterLink href="#">Ongoing content</FooterLink>
         <FooterLink href="#">Upcoming</FooterLink>
         <FooterLink href="#">Stipended Based</FooterLink>
       </FooterColumn>
